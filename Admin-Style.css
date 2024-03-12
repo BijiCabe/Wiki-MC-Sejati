@@ -1,0 +1,162 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+.body {
+  background-color:#FFD700;
+}
+
+.navbar {
+font-family: "Work Sans", sans-serif;
+}
+
+.navbar-second {
+  width:auto;
+  height:auto;
+  padding-bottom:10px;
+}
+
+.d-inline-block {
+  width:65px;
+  height:60px;
+  color:none;
+  margin-left:30px;
+}
+
+.main-container {
+  width:auto;
+  height:80px;
+  font-style:;
+}
+
+.wiki-title {
+  width:auto;
+  height:auto;
+  margin-top:14px;
+}
+
+.title-web {
+  font-family: "Bebas Neue", sans-serif;
+  text-align:center;
+  font-size:30px;
+}
+
+.main-box-admin{
+  width:auto;
+  height:auto;
+  margin:auto;
+}
+
+.admin-card {
+  width:80%;
+  height:auto;
+  margin:auto;
+  background-color:#FDD017;
+  padding-top:10px;
+}
+
+.admin-card-2 {
+  width:80%;
+  height:auto;
+  margin:auto;
+  background-color:;
+  padding-top:10px;
+}
+
+.image {
+  display:block;
+  border: 1px solid;
+  border-radius:50%;
+  max-width:80px;
+  margin:auto;
+}
+
+.image-andara {
+  display:block;
+  border: 1px solid;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  margin:auto; 
+}
+
+.image-fathir {
+  display:block;
+  border: 1px solid;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  margin:auto; 
+}
+
+.text-card  {
+  font-family: "Bebas Neue", sans-serif;
+  text-align:center;
+  bottom:15px;
+  font-size:25px;
+}
+
+.main-container-Community-Social-Media {
+  width:auto;
+  height:95px;
+  background-color:#3A3B3C;
+}
+
+.Box-Social-Media {
+  width:auto;
+  height:auto;
+  display:flex;
+  justify-content:center;
+}
+.div-Follow-Us {
+  height:28px;
+}
+.Follow-Us {
+  font-family: "Work Sans", sans-serif;
+  text-align:center;
+  color:white;
+}
+
+.insta, .spotify, .x, .tiktok, .youtube {
+  color:white;
+  font-size:20px;
+}
+.insta, .spotify, .x, .tiktok, .youtube {
+  width:auto;
+  height:auto;
+  padding-left:2px;
+  padding-right:2px;
+}
+
+.copyright {
+  height:35px;
+  width:auto;
+  margin:auto;
+  text-align:center;
+}
+
+.maker {
+  color:#888B90;
+  font-family: "Work Sans", sans-serif;
+  font-size:12px;
+}
+
+@media only screen and (min-width:990px) and (max-width:1500px) {
+  
+ .admin-card {
+  width:50%;
+  height:auto;
+  margin:auto;
+  background-color:#FDD017;
+  padding-top:10px;
+}
+
+.admin-card-2 {
+  width:50%;
+  height:auto;
+  margin:auto;
+  background-color:;
+  padding-top:10px;
+}
+}
