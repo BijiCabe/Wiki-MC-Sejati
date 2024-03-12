@@ -90,6 +90,24 @@ font-family: "Work Sans", sans-serif;
   margin:auto; 
 }
 
+.image-gilang {
+  display:block;
+  border: 1px solid;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  margin:auto; 
+}
+
+.image-jojo {
+  display:block;
+  border: 1px solid;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  margin:auto; 
+}
+
 .text-card  {
   font-family: "Bebas Neue", sans-serif;
   text-align:center;
@@ -159,4 +177,4 @@ font-family: "Work Sans", sans-serif;
   background-color:;
   padding-top:10px;
 }
-}
+  }
